@@ -2,6 +2,20 @@
 
 A full-stack Splitwise-like expense splitting application built with React, Node.js, Express, and MongoDB.
 
+🔗 **Live Demo:** https://splitease-teal.vercel.app
+
+---
+
+## ✨ Features
+
+- 🔐 JWT Authentication (Register / Login / Logout)
+- 👥 Create groups and add members by email
+- 💸 Add expenses with custom split among members
+- ⚖️ Automatic balance calculation
+- 🤝 Smart settlement suggestions (who pays whom)
+- 📱 Fully responsive mobile-friendly UI
+- 🔔 Toast notifications for all actions
+
 ---
 
 ## 📁 Folder Structure
